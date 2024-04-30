@@ -107,7 +107,7 @@ a{
 
 .buttons-login a:hover{
   background: #33333325;
-  border: 1px solid #33333325;
+  border: 1px solid transparent;
 }
 
 .buttons-login a img{

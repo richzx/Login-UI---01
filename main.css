@@ -90,7 +90,7 @@ a{
 .buttons-login{
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 6px;
 }
 
 .buttons-login a{
